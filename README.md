@@ -40,16 +40,12 @@ The following steps were performed:
 ### 🔹 Gender-wise Analysis
 * Female customers are the **major buyers**
 * Females contribute **higher total sales amount** compared to males
-
 ---
-
 ### 🔹 Age Group Analysis
 
 * Maximum purchases are from **26–35 years age group**
 * Female customers in this age range show the **highest spending**
-
 ---
-
 ### 🔹 State-wise Sales Performance
 
 Top states by **orders and total sales**:
@@ -59,28 +55,19 @@ Top states by **orders and total sales**:
 3. Karnataka
 
 These states generate the highest festive revenue.
-
 ---
-
 ### 🔹 Marital Status Analysis
 
 * **Married customers**, especially **married women**, dominate sales
 * Married females have **higher purchasing power**
-
 ---
-
 ### 🔹 Occupation-wise Analysis
-
 Top contributing occupations:
-
 * IT Sector
 * Healthcare
 * Aviation
-
 Professionals from these sectors show higher spending behavior.
-
 ---
-
 ### 🔹 Product Category Analysis
 
 Most popular product categories:
@@ -90,16 +77,12 @@ Most popular product categories:
 * Electronics
 
 These categories contribute the maximum revenue during Diwali.
-
 ---
-
 ### 🔹 Top Selling Products
 
 * Identified **Top 10 products** based on number of orders
 * Visualized using bar charts for better understanding
-
 ---
-
 ## 📈 Visualizations
 
 The project includes:
@@ -110,13 +93,8 @@ The project includes:
 * Top products analysis charts
 
 All visualizations are created using **Seaborn** and **Matplotlib**.
-
 ---
-
 ## ✅ Final Conclusion
 
 **Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors are the most valuable customers.**
 
-
-
-sab bana deta hoon — bas bolo 💪📊
