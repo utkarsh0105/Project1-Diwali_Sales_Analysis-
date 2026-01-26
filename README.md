@@ -1,100 +1,121 @@
-# Project1-Diwali_Sales_Analysis-
-#  Diwali Sales Data Analysis | Exploratory Data Analysis (EDA)
-##  Project Description
-This project focuses on **Exploratory Data Analysis (EDA)** of Diwali sales data to understand **customer behavior, buying patterns, and sales trends** during the festive season.
-The analysis helps identify:
-* High-value customers
-* Top performing states
-* Popular product categories
-* Key demographic segments contributing to sales
-This project is ideal for **Data Analyst / Python / Pandas portfolio**.
+
+# 🎆 Diwali Sales Data Analysis (EDA Project)
+
+## 📌 Project Overview
+
+This project performs **Exploratory Data Analysis (EDA)** on Diwali sales data to understand **customer behavior, purchasing patterns, and sales trends**.
+The analysis helps businesses identify **high-value customers**, **top-performing regions**, and **best-selling product categories** during the festive season.
+## Business Problems (Diwali Sales)
+Identify who buys the most during Diwali
+Find top-performing states for sales
+Understand best-selling product categories
+Target the right age group and gender
+Improve festive marketing effectiveness
+Reduce spending on low-performing segments
+Increase sales conversion using customer insights
+Support data-driven business decisions
+
+##  Dataset Information
+
+**Dataset Name:** Diwali Sales Data
+**Total Records:** 11,239
+**Total Columns:** 13 (after cleaning)
+
+### Key Columns
+
+* `User_ID`
+* `Cust_name`
+* `Gender`
+* `Age`
+* `Age Group`
+* `Marital_Status`
+* `State`
+* `Zone`
+* `Occupation`
+* `Product_Category`
+* `Orders`
+* `Amount`
+
 ---
-## 🛠️ Tools & Libraries Used
+
+##  Tools & Libraries Used
+
 * **Python**
 * **NumPy**
 * **Pandas**
 * **Matplotlib**
 * **Seaborn**
 * **Jupyter Notebook**
----
-##  Dataset Details
-* **Dataset Name:** Diwali Sales Data
-* **File:** `Diwali Sales Data.csv`
-* **Rows:** 11,251
-* **Columns:** 15 (cleaned to 13)
-* **Encoding:** `unicode_escape`
----
-## Data Cleaning & Preprocessing
 
-The following steps were performed:
-
-* Dropped unused columns: `Status`, `unnamed1`
-* Removed null values from `Amount`
-* Converted `Amount` data type from float to integer
-* Renamed column:
-
-  * `Marital_Status` → `Shaadi`
-* Verified data types and removed inconsistencies
-* ---
-## 📊 Exploratory Data Analysis (EDA)
-### 🔹 Gender-wise Analysis
-* Female customers are the **major buyers**
-* Females contribute **higher total sales amount** compared to males
 ---
+
+##  Data Cleaning Process
+
+* Removed unnecessary columns (`Status`, `unnamed1`)
+* Dropped rows with missing values
+* Converted `Amount` column to integer
+* Verified and corrected data types
+* Ensured data consistency
+
+---
+
+## Exploratory Data Analysis (EDA)
+
+### 🔹 Gender Analysis
+
+* Majority of buyers are **female**
+* Female customers contribute **higher total sales**
+
 ### 🔹 Age Group Analysis
 
-* Maximum purchases are from **26–35 years age group**
-* Female customers in this age range show the **highest spending**
----
-### 🔹 State-wise Sales Performance
+* Most active buyers belong to **26–35 years**
+* Female buyers dominate this age group
 
-Top states by **orders and total sales**:
+### 🔹 State-wise Sales
+
+Top states by sales and orders:
 
 1. Uttar Pradesh
 2. Maharashtra
 3. Karnataka
 
-These states generate the highest festive revenue.
----
-### 🔹 Marital Status Analysis
+### 🔹 Marital Status
 
-* **Married customers**, especially **married women**, dominate sales
-* Married females have **higher purchasing power**
----
-### 🔹 Occupation-wise Analysis
+* **Married women** have the highest purchasing power
+
+### 🔹 Occupation Analysis
+
 Top contributing occupations:
-* IT Sector
+
+* IT
 * Healthcare
 * Aviation
-Professionals from these sectors show higher spending behavior.
----
+
 ### 🔹 Product Category Analysis
 
-Most popular product categories:
+Most sold product categories:
 
 * Food
 * Clothing
 * Electronics
 
-These categories contribute the maximum revenue during Diwali.
 ---
-### 🔹 Top Selling Products
 
-* Identified **Top 10 products** based on number of orders
-* Visualized using bar charts for better understanding
----
-## 📈 Visualizations
+## 📈 Visualizations Included
 
-The project includes:
+* Count plots (Gender, Age Group, Occupation, Product Category)
+* Bar charts (State-wise Orders & Sales)
+* Product-wise order comparison
+* Sales distribution by demographics
 
-* Count plots
-* Bar plots
-* Grouped bar charts
-* Top products analysis charts
+##  Conclusion
 
-All visualizations are created using **Seaborn** and **Matplotlib**.
----
-## ✅ Final Conclusion
+**Married women aged 26–35 years**, especially from **Uttar Pradesh, Maharashtra, and Karnataka**, working in **IT, Healthcare, and Aviation**, are more likely to purchase products from **Food, Clothing, and Electronics** categories during Diwali.
 
-**Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors are the most valuable customers.**
+## 👤 Author & Contat
+
+**Utkarsh Singh**
+ Data Analyst 
+ **Email** : Utkarshsinghgzp233310@gmail.com
+ 
 
