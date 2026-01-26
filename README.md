@@ -114,7 +114,7 @@ Most sold product categories:
 
 ## 👤 Author & Contat
 **Utkarsh Singh**
-## Data Analyst 
-## **Email** : Utkarshsinghgzp233310@gmail.com
+**Data Analyst** 
+**Email** : Utkarshsinghgzp233310@gmail.com
  
 
