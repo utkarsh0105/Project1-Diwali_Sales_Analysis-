@@ -7,14 +7,14 @@ This project performs **Exploratory Data Analysis (EDA)** on Diwali sales data t
 The analysis helps businesses identify **high-value customers**, **top-performing regions**, and **best-selling product categories** during the festive season.
 
 ## Business Problems (Diwali Sales)
-#**Identify who buys the most during Diwali**
-#**Find top-performing states for sales**
-#**Understand best-selling product categories**
-#**Target the right age group and gender**
-#**Improve festive marketing effectiveness**
-#**Reduce spending on low-performing segments**
-#**Increase sales conversion using customer insights**
-#**Support data-driven business decisions**
+* **Identify who buys the most during Diwali**
+* **Find top-performing states for sales**
+* **Understand best-selling product categories**
+* **Target the right age group and gender**
+* **Improve festive marketing effectiveness**
+* **Reduce spending on low-performing segments**
+* **Increase sales conversion using customer insights**
+* **Support data-driven business decisions**
 
 ##  Dataset Information
 
