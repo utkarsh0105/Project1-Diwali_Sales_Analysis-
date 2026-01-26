@@ -113,9 +113,8 @@ Most sold product categories:
 **Married women aged 26–35 years**, especially from **Uttar Pradesh, Maharashtra, and Karnataka**, working in **IT, Healthcare, and Aviation**, are more likely to purchase products from **Food, Clothing, and Electronics** categories during Diwali.
 
 ## 👤 Author & Contat
-
 **Utkarsh Singh**
- Data Analyst 
- **Email** : Utkarshsinghgzp233310@gmail.com
+## Data Analyst 
+## **Email** : Utkarshsinghgzp233310@gmail.com
  
 
